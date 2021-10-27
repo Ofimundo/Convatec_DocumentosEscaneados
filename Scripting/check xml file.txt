@@ -1,0 +1,4 @@
+IF ((#app.USR_RUT#!="") AND (#app.USR_FOLIO#!="") AND (#app.USR_RUT_EMISOR#!="") AND (#app.USR_AMOUNT#!=0) AND (#app.USR_TIPO_DOCUMENTO#!="") AND (#app.USR_ORDEN_DE_COMPRA#!=""))
+{
+#app.USR_METADATA#=1
+}
