@@ -1,2 +1,0 @@
-# Convatec_DocumentosEscaneados
-Proyecto Comidor Documentos Escaneados
